@@ -1,0 +1,17 @@
+{
+  "resourceType": "Practitioner",
+ "identifier": [
+    {
+      "system": "http://api.zapehr.com/photon-prescriber-id",
+      "value": "usr_01HF4RMKAGH96ZQ8YBZFX14K6W"
+    }
+ ],
+  "name": [
+    {
+      "family": "LAST_NAME",
+      "given": [
+        "FIRST_NAME"
+      ]
+    }
+  ]
+}

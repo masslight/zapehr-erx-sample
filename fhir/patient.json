@@ -1,0 +1,31 @@
+{
+  "resourceType": "Patient",
+  "name": [
+    {
+      "family": "Shaw",
+      "given": ["Amy", "V."]
+    }
+  ],
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "+14231112222",
+      "use": "home"
+    },
+    {
+      "system": "email",
+      "value": "email@example.com"
+    }
+  ],
+  "gender": "female",
+  "birthDate": "1987-02-20",
+  "address": [
+    {
+      "line": ["49 Meadow St", "Apt 2"],
+      "city": "Mounds",
+      "state": "OK",
+      "postalCode": "74047",
+      "country": "US"
+    }
+  ]
+}
